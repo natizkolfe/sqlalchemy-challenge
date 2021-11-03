@@ -1,2 +1,1 @@
-# sqlalchemy-challenge
-![](image/daily-normals.png)
+<img src="image/daily-normals.png" width=100px)
