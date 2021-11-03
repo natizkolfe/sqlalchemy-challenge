@@ -1,2 +1,2 @@
 # sqlalchemy-challenge
-![] (image/daily-normals.png)
+![](image/daily-normals.png)
